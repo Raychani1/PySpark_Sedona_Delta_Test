@@ -1,4 +1,4 @@
-FROM rajcsanyiladislavit/spark_sedona_delta:latest
+FROM rajcsanyiladislavit/local_geo_analysis:DB_12.2_LTS_ML
 
 WORKDIR /app
 
